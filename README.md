@@ -11,7 +11,7 @@ Buku ini ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi. Buku ini terbi
 
 ## Sitasi
 
-Nashrulloh, M.M., Rahardi, B. 2023. **Dasar-Dasar Python 3.10**. Global Science. Malang.
+Nashrulloh, M.M., Rahardi, B. 2023. **Dasar-Dasar Python 3.10**. Future Science. Malang.
 
 ## Errata
 
