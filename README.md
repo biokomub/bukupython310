@@ -15,7 +15,7 @@ Nashrulloh, M.M., Rahardi, B. 2023. **Dasar-Dasar Python 3.10**. Future Science.
 
 ## Errata
 
-File errata [Errata.pdf](Errata.pdf) mengandung daftar beberapa kesalahan pengetikan yang diketahui dan koreksinya. Errata ini bersifat minor dan tidak mempengaruhi konten dari buku ini.
+File Errata akan dibuat jika dilaporkan adanya kesalahan minor yang tidak mempengaruhi konten buku ini secara keseluruhan.
 
 ## Kontak
 
