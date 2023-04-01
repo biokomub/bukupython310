@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ujikimiatanah-whl
+Version: 0.1.0
+Summary: pustaka untuk menguji parameter kimia tanah
+Home-page: https://komputasi.biologi.ub.ac.id/
+Author: Brian Rahardi
+Author-email: brian_rhardi@ub.ac.id
+Project-URL: Bug Tracker, https://komputasi.biologi.ub.ac.id/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Uji Kimia Tanah
+
+Ini adalah pustaka untuk menguji parameter kimia tanah.
+Ada 7 parameter yang disediakan di versi ini.
+
+Versi 0.1.0

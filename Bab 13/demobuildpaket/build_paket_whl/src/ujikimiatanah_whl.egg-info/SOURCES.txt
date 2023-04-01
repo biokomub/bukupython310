@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ujikimiatanah/__init__.py
+src/ujikimiatanah/cnratio.py
+src/ujikimiatanah/ujikarbon.py
+src/ujikimiatanah/ujikbebas.py
+src/ujikimiatanah/ujinitrogen.py
+src/ujikimiatanah/ujiP/__init__.py
+src/ujikimiatanah/ujiP/ujipbray.py
+src/ujikimiatanah/ujiP/ujipolsen.py
+src/ujikimiatanah/ujiP/ujiptotal.py
+src/ujikimiatanah_whl.egg-info/PKG-INFO
+src/ujikimiatanah_whl.egg-info/SOURCES.txt
+src/ujikimiatanah_whl.egg-info/dependency_links.txt
+src/ujikimiatanah_whl.egg-info/top_level.txt
