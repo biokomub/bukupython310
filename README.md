@@ -26,7 +26,7 @@ Kritik dan saran dapat disampaikan kepada penulis melalui:
 
 ## Pembelian
 
-Dikarenakan buku ini dirilis bertepatan dengan bulan Ramadhan, claim buku ini melalui Diskon Promo Ramadhan INBIO di bit.ly/Diskonramadhan4 (berlaku hingga 28 April 2023)
+Dikarenakan buku ini dirilis bertepatan dengan bulan Ramadhan, claim buku ini melalui Diskon Promo Ramadhan INBIO di https://bit.ly/Diskonramadhan4 (berlaku hingga 28 April 2023)
 
 <p align="center">
 <img width="300" src="https://github.com/biokomub/bukupython310/blob/main/assets/INBIOramadhan4.jpeg">
