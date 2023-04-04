@@ -7,7 +7,7 @@ Repositori ini repositori dari kode dan tutorial pendamping buku **Dasar-Dasar P
 <img width="300" src="https://github.com/biokomub/bukupython310/blob/main/assets/cover.jpeg">
 </p>
 
-Buku ini ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi. Buku ini terbit pada April 2023 dan diterbitkan oleh penerbit Future Science (https://futuresciencepress.com/), sayap penerbitan dari Inbio Indonesia (https://www.inbio-indonesia.org/).
+Buku ini ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi. Buku ini terbit pada 3 April 2023 dan diterbitkan oleh penerbit Future Science (https://futuresciencepress.com/), sayap penerbitan dari Inbio Indonesia (https://www.inbio-indonesia.org/).
 
 ## Sitasi
 
@@ -26,11 +26,11 @@ Kritik dan saran dapat disampaikan kepada penulis melalui:
 
 ## Pembelian
 
-TBA
+Dikarenakan buku ini dirilis bertepatan dengan bulan Ramadhan, claim buku ini melalui Diskon Promo Ramadhan INBIO di bit.ly/Diskonramadhan4 (berlaku hingga 28 April 2023)
+
+<p align="center">
+<img width="300" src="https://github.com/biokomub/bukupython310/blob/main/assets/inbioramadhan4.jpeg">
+</p>
 
 ##
 
-<p align="center"> Powered by: </p>
-<p align="center">
-  
-</p>
